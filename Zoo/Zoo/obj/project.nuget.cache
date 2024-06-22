@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "MBBlHDRoAULC7i2Tu32kcHyF9/zrIH3iGC/KU3IXHRbvPhIUTIMTQ0CDe9TkgaS1mKqjwJ2Nqy1gPdRVLdVS8A==",
+  "dgSpecHash": "SXUq467IbDO2JD+EhsbsR1gx4XRFuTqyA9OwkPS2Z946E+Om2YuHvutTuO9tUDtj3x1V72BBesIkpfXTzw4Dig==",
   "success": true,
   "projectFilePath": "C:\\IVANA\\Zoo_back\\Zoo\\Zoo\\Zoo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.6\\microsoft.aspnetcore.components.analyzers.8.0.6.nupkg.sha512",
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.6\\microsoft.aspnetcore.metadata.8.0.6.nupkg.sha512",
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Ivana\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
